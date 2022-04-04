@@ -1,17 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "world"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "photos": [
   {
     "albumId": 1,
@@ -83,5 +70,18 @@
     "url": "https://via.placeholder.com/600/6a0f83",
     "thumbnailUrl": "https://via.placeholder.com/150/6a0f83"
   }
-]
+],
+    "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "world"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
